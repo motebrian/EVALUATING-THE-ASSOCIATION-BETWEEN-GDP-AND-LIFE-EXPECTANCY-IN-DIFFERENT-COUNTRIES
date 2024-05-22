@@ -1,0 +1,2 @@
+# EVALUATING-THE-ASSOCIATION-BETWEEN-GDP-AND-LIFE-EXPECTANCY-IN-DIFFERENT-COUNTRIES
+In this project I used realife data from world bank.
